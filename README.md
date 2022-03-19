@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michał Jemiołek. I'm 3th year IT student at Politechnika Łódzka
 - 👀 I’m interested in paid internship or job. From other things: video game development, web development, alghoritms and data structures.
 - I also like gym and chess.
-- 🌱 I’m currently learning frontend tech stack(HTML,CSS,JS)
+- 🌱 I’m currently learning frontend tech stack
 - 📫 How to reach me: https://discordapp.com/users/693858258183651328
