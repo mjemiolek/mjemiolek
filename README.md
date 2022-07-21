@@ -1,6 +1,6 @@
-# Hi there, I'm Michał👋
+## Hi there, I'm Michał👋
 
-## I'm Front-end React Developer
+# I'm Front-end React Developer
 
 * I'm currently learning ReactJs and JavaScript
 * I'm looking for first job as React developer
