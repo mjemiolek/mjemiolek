@@ -6,6 +6,9 @@
 * ⚛️I'm looking for first job as React developer
 * 📖2022 goals: first job as front-end dev, 140kg bench press, 200kg deadlift
 * ⚡Fun fact: My favourite book is "Think and grow rich" by Napoleon Hill and my mbti type is INTJ
+
+- 📫 How to reach me: https://discordapp.com/users/693858258183651328 or https://www.facebook.com/OstryDzikMichu/
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -24,5 +27,3 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="unity" width="26px" src="https://e7.pngegg.com/pngimages/242/418/png-clipart-unity-video-game-logo-augmented-reality-game-engine-others-miscellaneous-angle.png" />
-
-- 📫 How to reach me: https://discordapp.com/users/693858258183651328 or https://www.facebook.com/OstryDzikMichu/
