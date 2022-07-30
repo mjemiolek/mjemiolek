@@ -7,7 +7,10 @@
 * 📖2022 goals: first job as front-end dev, 140kg bench press, 200kg deadlift
 * ⚡Fun fact: My favourite book is "Think and grow rich" by Napoleon Hill and my mbti type is INTJ
 
-- 📫 How to reach me: https://discordapp.com/users/693858258183651328 or https://www.facebook.com/OstryDzikMichu/
+- 📫 How to reach me:
+- https://discordapp.com/users/693858258183651328
+- https://www.facebook.com/OstryDzikMichu/
+- https://www.linkedin.com/in/micha%C5%82-jemio%C5%82ek-834622213/
 
 ### Languages and Tools:
 
