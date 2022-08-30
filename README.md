@@ -1,9 +1,6 @@
 ### Hi there, I'm Michał👋
 
-## I'm Front-end React Developer
-
 * ⚛️Open to work as React developer
-* ⚡Fun fact: My favourite book is "Think and grow rich" by Napoleon Hill and my mbti type is INTJ
 
 - 📫 How to reach me:
 - https://www.linkedin.com/in/jemiolek/
