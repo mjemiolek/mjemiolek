@@ -1,6 +1,6 @@
 ### Hi there, I'm Michał👋
 
-* ⚛️Open to work as React developer
+* Eager to work
 
 - 📫 How to reach me:
 - https://www.linkedin.com/in/jemiolek/
