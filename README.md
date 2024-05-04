@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://lichess.org/@/B33M0S"><img src="/github-metrics.svg" alt="Metrics" width="100%"></a>
+  <a href="https://lichess.org/@/B33M0S" target="_blank"><img src="/github-metrics.svg" alt="Metrics" width="100%"></a>
 <p>
   
 <p align="center">
     <a href="https://github.com/mjemiolek"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjemiolek&hide=html,css,cmake&layout=compact&langs_count=12&hide_border=true"></a>
-    <a href="https://leetcode.com/3miola/"><img width="49%" src="https://leetcode.card.workers.dev/3miola?theme=default&font=&extension=activity&border=0"></a>
+    <a href="https://leetcode.com/3miola/" target="_blank"><img width="49%" src="https://leetcode.card.workers.dev/3miola?theme=default&font=&extension=activity&border=0"></a>
 </p>
 
 <picture>
